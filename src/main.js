@@ -7,4 +7,4 @@ import '../styles/style.css';
 function sayHello() {
   // TODO: implement your logic here
 }
-// sayHello();
+document.addEventListener('DOMContentLoaded', sayHello);
