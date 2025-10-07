@@ -23,20 +23,28 @@ Example:
 
 ## Technologies Used
 
-Example:
 - **Frontend**: HTML, CSS, JavaScript
+- **Build Tool**: [Vite](https://vitejs.dev/)
 - **Backend**: Firebase for hosting
 - **Database**: Firestore
-- **API**: OpenWeatherMap API
 
 ---
 
 ## Usage
 
-Example:
-1. Open your browser and visit `http://localhost:3000`.
-2. Enter the name of the city in the search bar and press enter.
-3. View the weather information displayed on the screen.
+To run the application locally:
+
+1.  **Clone** the repository.
+2.  **Install dependencies** by running `npm install` in the project root directory.
+3.  **Start the development server** by running the command: `npm run dev`.
+4.  Open your browser and visit the local address shown in your terminal (usually `http://localhost:5173` or similar).
+
+Once the application is running:
+
+1.  Browse the list of hiking trails displayed on the main page.
+2.  Click the heart icon (or similar) to mark a trail as a favorite.
+3.  View your favorite hikes in the favorites section.
+
 
 ---
 
