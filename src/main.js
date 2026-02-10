@@ -1,3 +1,4 @@
+// Importing Bootstrap and custom CSS in JavaScript take advantage of Vite’s build and development features.
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap';
 
